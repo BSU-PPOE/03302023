@@ -1,0 +1,226 @@
+Plate-solve run at 6/8/2023 3:48:02 PM
+Use File/Save As to save this file
+
+
+D:\Observatory_OneDrive\OneDrive - Bridgewater State University\Permanent\2023\03302023\1088 Mitaka\B\1088Mitaka_03302023_part2-0001_B_120s.fit:
+ 160 image stars found.
+ 92 catalog stars found in the GSC/1.1 with enhanced accuracy (*) catalog.
+ Solved using 30 of max 500, RMS residual is 0.33 arcsec, order =3
+ Solution took 0.4 seconds
+ Centerpoint RA = 07h 06m 07.306s Dec = 31° 09' 44.32"
+ Pointing error 0.1 arc minutes
+ WCS: Roll = -87.45 HScale = -1.435 VScale = -1.435
+ PA = 87.454°
+ FWHM = 4.86 arcsec
+ ZeroPoint = 18.34 (1 sec.)
+ 
+
+D:\Observatory_OneDrive\OneDrive - Bridgewater State University\Permanent\2023\03302023\1088 Mitaka\B\1088Mitaka_03302023_part2-0002_B_120s.fit:
+ 183 image stars found.
+ 92 catalog stars found in the GSC/1.1 with enhanced accuracy (*) catalog.
+ Solved using 32 of max 500, RMS residual is 0.29 arcsec, order =3
+ Solution took 0.5 seconds
+ Centerpoint RA = 07h 06m 07.333s Dec = 31° 09' 43.71"
+ Pointing error 0.1 arc minutes
+ WCS: Roll = -87.48 HScale = -1.436 VScale = -1.435
+ PA = 87.480°
+ FWHM = 4.71 arcsec
+ ZeroPoint = 18.29 (1 sec.)
+ 
+
+D:\Observatory_OneDrive\OneDrive - Bridgewater State University\Permanent\2023\03302023\1088 Mitaka\B\1088Mitaka_03302023_part2-0003_B_120s.fit:
+ 161 image stars found.
+ 92 catalog stars found in the GSC/1.1 with enhanced accuracy (*) catalog.
+ Solved using 27 of max 500, RMS residual is 0.58 arcsec, order =2
+ Solution took 0.4 seconds
+ Centerpoint RA = 07h 06m 07.255s Dec = 31° 09' 44.09"
+ Pointing error 0.1 arc minutes
+ WCS: Roll = -87.45 HScale = -1.432 VScale = -1.432
+ PA = 87.453°
+ FWHM = 4.69 arcsec
+ ZeroPoint = 18.27 (1 sec.)
+ 
+
+D:\Observatory_OneDrive\OneDrive - Bridgewater State University\Permanent\2023\03302023\1088 Mitaka\B\1088Mitaka_03302023_part2-0004_B_120s.fit:
+ 160 image stars found.
+ 92 catalog stars found in the GSC/1.1 with enhanced accuracy (*) catalog.
+ Solved using 27 of max 500, RMS residual is 0.62 arcsec, order =2
+ Solution took 0.4 seconds
+ Centerpoint RA = 07h 06m 07.296s Dec = 31° 09' 43.43"
+ Pointing error 0.1 arc minutes
+ WCS: Roll = -87.43 HScale = -1.431 VScale = -1.431
+ PA = 87.428°
+ FWHM = 5.79 arcsec
+ ZeroPoint = 18.24 (1 sec.)
+ 
+
+D:\Observatory_OneDrive\OneDrive - Bridgewater State University\Permanent\2023\03302023\1088 Mitaka\B\1088Mitaka_03302023_part2-0005_B_120s.fit:
+ 160 image stars found.
+ 92 catalog stars found in the GSC/1.1 with enhanced accuracy (*) catalog.
+ Solved using 25 of max 500, RMS residual is 0.62 arcsec, order =2
+ Solution took 0.4 seconds
+ Centerpoint RA = 07h 06m 07.315s Dec = 31° 09' 43.69"
+ Pointing error 0.1 arc minutes
+ WCS: Roll = -87.44 HScale = -1.432 VScale = -1.431
+ PA = 87.437°
+ FWHM = 6.76 arcsec
+ ZeroPoint = 18.24 (1 sec.)
+ 
+
+D:\Observatory_OneDrive\OneDrive - Bridgewater State University\Permanent\2023\03302023\1088 Mitaka\B\1088Mitaka_03302023_part2-0006_B_120s.fit:
+ 167 image stars found.
+ 92 catalog stars found in the GSC/1.1 with enhanced accuracy (*) catalog.
+ Solved using 8 of max 500, RMS residual is 0.40 arcsec, order =1
+ Solution took 0.3 seconds
+ Centerpoint RA = 07h 05m 09.413s Dec = 31° 03' 45.91"
+ Pointing error 13.8 arc minutes
+ WCS: Roll = -45.22 HScale = -1.464 VScale = -1.464
+ PA = 45.224°
+ FWHM = 5.24 arcsec
+ ZeroPoint = 15.10 (1 sec.)
+ 
+
+D:\Observatory_OneDrive\OneDrive - Bridgewater State University\Permanent\2023\03302023\1088 Mitaka\B\1088Mitaka_03302023_part2-0007_B_120s.fit:
+ 175 image stars found.
+ 92 catalog stars found in the GSC/1.1 with enhanced accuracy (*) catalog.
+ Solved using 27 of max 500, RMS residual is 0.57 arcsec, order =2
+ Solution took 0.4 seconds
+ Centerpoint RA = 07h 06m 07.237s Dec = 31° 09' 43.02"
+ Pointing error 0.1 arc minutes
+ WCS: Roll = -87.45 HScale = -1.432 VScale = -1.431
+ PA = 87.453°
+ FWHM = 4.53 arcsec
+ ZeroPoint = 18.24 (1 sec.)
+ 
+
+D:\Observatory_OneDrive\OneDrive - Bridgewater State University\Permanent\2023\03302023\1088 Mitaka\B\1088Mitaka_03302023_part2-0008_B_120s.fit:
+ 153 image stars found.
+ 92 catalog stars found in the GSC/1.1 with enhanced accuracy (*) catalog.
+ Solved using 26 of max 500, RMS residual is 0.63 arcsec, order =2
+ Solution took 0.5 seconds
+ Centerpoint RA = 07h 06m 07.270s Dec = 31° 09' 42.71"
+ Pointing error 0.1 arc minutes
+ WCS: Roll = -87.44 HScale = -1.431 VScale = -1.431
+ PA = 87.438°
+ FWHM = 6.09 arcsec
+ ZeroPoint = 18.16 (1 sec.)
+ 
+
+D:\Observatory_OneDrive\OneDrive - Bridgewater State University\Permanent\2023\03302023\1088 Mitaka\B\1088Mitaka_03302023_part2-0009_B_120s.fit:
+ 161 image stars found.
+ 92 catalog stars found in the GSC/1.1 with enhanced accuracy (*) catalog.
+ Solved using 25 of max 500, RMS residual is 0.64 arcsec, order =2
+ Solution took 0.4 seconds
+ Centerpoint RA = 07h 06m 07.272s Dec = 31° 09' 42.47"
+ Pointing error 0.1 arc minutes
+ WCS: Roll = -87.44 HScale = -1.431 VScale = -1.431
+ PA = 87.436°
+ FWHM = 6.86 arcsec
+ ZeroPoint = 18.17 (1 sec.)
+ 
+
+D:\Observatory_OneDrive\OneDrive - Bridgewater State University\Permanent\2023\03302023\1088 Mitaka\B\1088Mitaka_03302023_part2-0010_B_120s.fit:
+ 147 image stars found.
+ 92 catalog stars found in the GSC/1.1 with enhanced accuracy (*) catalog.
+ Solved using 30 of max 500, RMS residual is 0.31 arcsec, order =3
+ Solution took 0.5 seconds
+ Centerpoint RA = 07h 06m 07.192s Dec = 31° 09' 42.44"
+ Pointing error 0.1 arc minutes
+ WCS: Roll = -87.48 HScale = -1.436 VScale = -1.436
+ PA = 87.478°
+ FWHM = 4.41 arcsec
+ ZeroPoint = 18.15 (1 sec.)
+ 
+
+D:\Observatory_OneDrive\OneDrive - Bridgewater State University\Permanent\2023\03302023\1088 Mitaka\B\1088Mitaka_03302023-0001_B_120s.fit:
+ 193 image stars found.
+ 92 catalog stars found in the GSC/1.1 with enhanced accuracy (*) catalog.
+ Solved using 31 of max 500, RMS residual is 0.31 arcsec, order =3
+ Solution took 0.4 seconds
+ Centerpoint RA = 07h 06m 07.357s Dec = 31° 09' 46.49"
+ Pointing error 0.1 arc minutes
+ WCS: Roll = -87.48 HScale = -1.435 VScale = -1.435
+ PA = 87.480°
+ FWHM = 4.49 arcsec
+ ZeroPoint = 18.31 (1 sec.)
+ 
+
+D:\Observatory_OneDrive\OneDrive - Bridgewater State University\Permanent\2023\03302023\1088 Mitaka\B\1088Mitaka_03302023-0002_B_120s.fit:
+ 207 image stars found.
+ 92 catalog stars found in the GSC/1.1 with enhanced accuracy (*) catalog.
+ Solved using 37 of max 500, RMS residual is 0.30 arcsec, order =3
+ Solution took 0.4 seconds
+ Centerpoint RA = 07h 06m 07.319s Dec = 31° 09' 46.58"
+ Pointing error 0.1 arc minutes
+ WCS: Roll = -87.47 HScale = -1.435 VScale = -1.434
+ PA = 87.471°
+ FWHM = 4.67 arcsec
+ ZeroPoint = 18.41 (1 sec.)
+ 
+
+D:\Observatory_OneDrive\OneDrive - Bridgewater State University\Permanent\2023\03302023\1088 Mitaka\B\1088Mitaka_03302023-0003_B_120s.fit:
+ 196 image stars found.
+ 92 catalog stars found in the GSC/1.1 with enhanced accuracy (*) catalog.
+ Solved using 33 of max 500, RMS residual is 0.35 arcsec, order =3
+ Solution took 0.5 seconds
+ Centerpoint RA = 07h 06m 07.281s Dec = 31° 09' 46.24"
+ Pointing error 0.1 arc minutes
+ WCS: Roll = -87.46 HScale = -1.435 VScale = -1.435
+ PA = 87.458°
+ FWHM = 5.04 arcsec
+ ZeroPoint = 18.44 (1 sec.)
+ 
+
+D:\Observatory_OneDrive\OneDrive - Bridgewater State University\Permanent\2023\03302023\1088 Mitaka\B\1088Mitaka_03302023-0004_B_120s.fit:
+ 179 image stars found.
+ 92 catalog stars found in the GSC/1.1 with enhanced accuracy (*) catalog.
+ Solved using 28 of max 500, RMS residual is 0.54 arcsec, order =2
+ Solution took 0.5 seconds
+ Centerpoint RA = 07h 06m 07.358s Dec = 31° 09' 46.21"
+ Pointing error 0.1 arc minutes
+ WCS: Roll = -87.44 HScale = -1.432 VScale = -1.431
+ PA = 87.442°
+ FWHM = 4.88 arcsec
+ ZeroPoint = 18.29 (1 sec.)
+ 
+
+D:\Observatory_OneDrive\OneDrive - Bridgewater State University\Permanent\2023\03302023\1088 Mitaka\B\1088Mitaka_03302023-0005_B_120s.fit:
+ 170 image stars found.
+ 92 catalog stars found in the GSC/1.1 with enhanced accuracy (*) catalog.
+ Solved using 33 of max 500, RMS residual is 0.27 arcsec, order =3
+ Solution took 0.4 seconds
+ Centerpoint RA = 07h 06m 07.315s Dec = 31° 09' 44.68"
+ Pointing error 0.1 arc minutes
+ WCS: Roll = -87.45 HScale = -1.435 VScale = -1.435
+ PA = 87.454°
+ FWHM = 4.62 arcsec
+ ZeroPoint = 18.00 (1 sec.)
+ 
+
+D:\Observatory_OneDrive\OneDrive - Bridgewater State University\Permanent\2023\03302023\1088 Mitaka\B\1088Mitaka_03302023-0006_B_120s.fit:
+ 137 image stars found.
+ 92 catalog stars found in the GSC/1.1 with enhanced accuracy (*) catalog.
+ Solved using 26 of max 500, RMS residual is 0.42 arcsec, order =2
+ Solution took 0.4 seconds
+ Centerpoint RA = 07h 06m 07.383s Dec = 31° 09' 43.47"
+ Pointing error 0.1 arc minutes
+ WCS: Roll = -87.41 HScale = -1.432 VScale = -1.432
+ PA = 87.412°
+ FWHM = 5.49 arcsec
+ ZeroPoint = 17.56 (1 sec.)
+ 
+
+D:\Observatory_OneDrive\OneDrive - Bridgewater State University\Permanent\2023\03302023\1088 Mitaka\B\1088Mitaka_03302023-0007_B_120s.fit:
+ 97 image stars found.
+ 92 catalog stars found in the GSC/1.1 with enhanced accuracy (*) catalog.
+ Solved using 25 of max 500, RMS residual is 0.55 arcsec, order =2
+ Solution took 0.4 seconds
+ Centerpoint RA = 07h 06m 06.976s Dec = 31° 09' 42.99"
+ Pointing error 0.1 arc minutes
+ WCS: Roll = -87.40 HScale = -1.432 VScale = -1.431
+ PA = 87.400°
+ FWHM = 4.39 arcsec
+ ZeroPoint = 16.82 (1 sec.)
+ 
+
+17 solved, 0 failed.
